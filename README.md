@@ -43,7 +43,7 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
 Para iniciar o servidor
 
 ```sh
-    expo start
+    npm start
 ```
 
 <br />
