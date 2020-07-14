@@ -54,10 +54,18 @@ Para iniciar o servidor
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [React](https://pt-br.reactjs.org/)
-- [JavaScript](https://www.javascript.com/)
-- [TypeScript](https://www.typescriptlang.org/)
+- **[React](https://pt-br.reactjs.org/)**
+- **[JavaScript](https://www.javascript.com/)**
+- **[TypeScript](https://www.typescriptlang.org/)**
+- **[React Router Dom](https://reactrouter.com/)**
+- **[React Icons](https://react-icons.github.io/react-icons/)**
+- **[Axios](https://github.com/axios/axios)**
+- **[Leaflet](https://leafletjs.com/)**
+- **[React Leaflet](https://react-leaflet.js.org/)**
+- **[React Dropzone](https://react-dropzone.js.org/)**
 
+\* Veja o arquivo <kbd>[package.json](./package.json)</kbd>
+ 
 <br />
 
 <!-- LICENSE -->
